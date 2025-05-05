@@ -1,0 +1,36 @@
+{
+	"users": [
+	  {
+		"id": "ab904",
+		"name": "Gabriel",
+		"email": "gabriel@hotmail.com",
+		"password": "gabriel123"
+	  },
+	  {
+		"id": "b8c3",
+		"name": "Hellen",
+		"email": "hellen@hotmail.com",
+		"password": "hellen123"
+	  },
+	  {
+		"id": "3",
+		"name": "Lucas",
+		"email": "lucas@hotmail.com",
+		"password": "lucas123"
+	  }
+	],
+	"restaurants": [
+	  {
+		"id": "1",
+		"name": "Mc Donald's",
+		"address": "Rua 1",
+		"contact": "11111"
+	  },
+	  {
+		"id": "2",
+		"name": "Burger King",
+		"address": "Rua 2",
+		"contact": "22222"
+	  }
+	]
+  }
